@@ -28,6 +28,6 @@
 |:-------------:|:-----------------:|:------------:|
 | <img src="screenshots/Trangchu.png" width="250"/> | <img src="screenshots/Thuoc.png" width="250"/> | <img src="screenshots/Suckhoe.png" width="250"/> |
 
-| **Biểu đồ** | **Cá nhân** | |
-|:-----------:|:-----------:|:-:|
-| <img src="screenshots/Bieudo.png" width="250"/> | <img src="screenshots/Nguoidung.png" width="250"/> | |
+| **Biểu đồ** | **Cá nhân** | **Thông báo**|
+|:-----------:|:-----------:|:-----------:|
+| <img src="screenshots/Bieudo.png" width="250"/> | <img src="screenshots/Nguoidung.png" width="250"/> | <img src="screenshots/Thongbao.jpg" width="250"/>  |
