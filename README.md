@@ -13,7 +13,7 @@
 - **Nhập liệu thủ công:** Dễ dàng thêm kết quả đo mới với ngày giờ cụ thể.
 - **Nhắc đo chỉ số:** Hệ thống thông báo cục bộ nhắc nhở chính xác giờ uống thuốc ngay cả khi tắt ứng dụng.
 
-### 3. Dashboard & Hồ sơ cá nhân 👤
+### 3. Trang chủ & Hồ sơ cá nhân 👤
 - **Tổng quan:** Xem nhanh chỉ số sức khỏe mới nhất, tiến độ uống thuốc trong ngày tại màn hình Trang chủ.
 - **Hồ sơ:** Quản lý thông tin cá nhân, cài đặt ứng dụng cơ bản.
 
