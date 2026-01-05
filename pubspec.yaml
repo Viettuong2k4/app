@@ -27,6 +27,7 @@ dependencies:
   android_alarm_manager_plus: ^4.0.3
   audioplayers: ^6.0.0
   shared_preferences: ^2.2.2
+  flutter_launcher_icons: ^0.14.4
   
 dev_dependencies:
   flutter_test:
@@ -37,3 +38,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/logo.png"
+  remove_alpha_ios: true
