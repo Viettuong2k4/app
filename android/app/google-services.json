@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881021244564",
+    "project_id": "songkhoe-qtt",
+    "storage_bucket": "songkhoe-qtt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881021244564:android:cac878de148f501e5fd081",
+        "android_client_info": {
+          "package_name": "com.example.songkhoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASQkIW3W8Ea8l4II_WfMT4NQQPVHN70fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
