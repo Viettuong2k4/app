@@ -80,10 +80,10 @@ class _ProfileSetupScreenState extends State<ProfileSetupScreen> {
 
     final auth = Provider.of<AuthProvider>(context, listen: false);
 
-    final int calculatedAge = _calculateAge(_selectedDateOfBirth!);
+
 
     auth.updateUserProfile(
-      age: calculatedAge,
+      dob: _selectedDateOfBirth!,
       gender: _gender,
       height: double.tryParse(_heightController.text) ?? 0.0,
       weight: double.tryParse(_weightController.text) ?? 0.0,

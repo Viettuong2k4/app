@@ -140,7 +140,7 @@ class AuthProvider extends ChangeNotifier {
   }
 
   Future<void> updateUserProfile({
-    required int age,
+    required DateTime dob,
     required String gender,
     required double height,
     required double weight,
@@ -168,7 +168,7 @@ class AuthProvider extends ChangeNotifier {
         gender: genderEnum,
         height: height,
         weight: weight,
-        dob: _userModel!.dob,
+        dob: dob,
       );
 
       await _authRepository.updateUserData(updatedUser);
